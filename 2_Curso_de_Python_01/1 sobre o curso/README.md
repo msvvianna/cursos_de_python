@@ -1,4 +1,4 @@
-# Curso Completo de Python Geek University
+# Curso Completo de Python Udemy
 
 O que iremos aprender roadmap
 
