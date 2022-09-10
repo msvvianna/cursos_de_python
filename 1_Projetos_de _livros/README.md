@@ -1,4 +1,4 @@
-# Curso Completo de Python Geek University
+# Intensivo Python - Resumo
 
 ### Capitulo 1 ###
 - instalação do Python
